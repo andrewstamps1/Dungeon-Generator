@@ -1,0 +1,13 @@
+C:\Users\Andrew Stamps\source\repos\DungeonGeneratorII\DungeonGeneratorII\bin\Debug\DungeonGeneratorII.exe.config
+C:\Users\Andrew Stamps\source\repos\DungeonGeneratorII\DungeonGeneratorII\bin\Debug\DungeonGeneratorII.exe
+C:\Users\Andrew Stamps\source\repos\DungeonGeneratorII\DungeonGeneratorII\bin\Debug\DungeonGeneratorII.pdb
+C:\Users\Andrew Stamps\source\repos\DungeonGeneratorII\DungeonGeneratorII\obj\Debug\DungeonGeneratorII.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Stamps\source\repos\DungeonGeneratorII\DungeonGeneratorII\obj\Debug\DungeonGeneratorII.exe
+C:\Users\Andrew Stamps\source\repos\DungeonGeneratorII\DungeonGeneratorII\obj\Debug\DungeonGeneratorII.pdb
+C:\Users\admin\source\repos\DungeonGeneratorII\DungeonGeneratorII\bin\Debug\DungeonGeneratorII.exe.config
+C:\Users\admin\source\repos\DungeonGeneratorII\DungeonGeneratorII\bin\Debug\DungeonGeneratorII.exe
+C:\Users\admin\source\repos\DungeonGeneratorII\DungeonGeneratorII\bin\Debug\DungeonGeneratorII.pdb
+C:\Users\admin\source\repos\DungeonGeneratorII\DungeonGeneratorII\obj\Debug\DungeonGeneratorII.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DungeonGeneratorII\DungeonGeneratorII\obj\Debug\DungeonGeneratorII.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DungeonGeneratorII\DungeonGeneratorII\obj\Debug\DungeonGeneratorII.exe
+C:\Users\admin\source\repos\DungeonGeneratorII\DungeonGeneratorII\obj\Debug\DungeonGeneratorII.pdb
